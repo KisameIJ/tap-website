@@ -28,7 +28,7 @@ const year = ref(new Date().getFullYear());
               </a>              
             </p>      
             <h4>
-              <a href="https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/tap-application" target="_blank">Apply</a>
+              <a href="https://www.ggc.edu/academics/schools/school-of-science-and-technology/sst-research-internships-and-service-learning#section11451" target="_blank">Apply</a>
             </h4>
 
             <h4>Follow Us</h4>

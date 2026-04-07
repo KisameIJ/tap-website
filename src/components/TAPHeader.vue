@@ -36,7 +36,7 @@ const base = import.meta.env.BASE_URL;
             <template #menuitem-techs><a :href="`${base == '/' ? '' : base}/techs`">Technologies</a></template>
             <template #menuitem-add-prj><a :href="`${base == '/' ? '' : base}/template`">Add project</a></template>
             <template #menuitem-apply>
-              <a href="https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program"
+              <a href="https://www.ggc.edu/academics/schools/school-of-science-and-technology/sst-research-internships-and-service-learning#section11451"
                  target="_blank">Student application</a></template>
             <template #menuitem-alum>
               <a href="https://www.linkedin.com/groups/4866341/"
